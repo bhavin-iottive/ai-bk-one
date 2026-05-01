@@ -1,0 +1,5 @@
+{
+  "baseBranch": "dev",
+  "maxDiffSize": 20000,
+  "logFile": "ai-pr.log"
+}

@@ -1,0 +1,10 @@
+{
+  "focusAreas": [
+    "Check for memory leaks and performance bottlenecks.",
+    "Ensure error handling is robust (no silent catch blocks without logs).",
+    "Verify no sensitive data or console.logs are left behind.",
+    "Look for bad patterns or overly complex logic.",
+    "Suggest potential improvements for code readability and maintainability."
+  ],
+  "strictFormat": true
+}
